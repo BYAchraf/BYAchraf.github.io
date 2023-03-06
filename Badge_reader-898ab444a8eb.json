@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "badge-reader-256323",
+  "private_key_id": "898ab444a8ebdbec7a78b67469a0a6fe50607675",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDnSosVvLaUQpD2\nEGoQ1ScQoVLBla1jCg5EWpHvrOThYlpiSBxb9ZlQ/5QvIBpGjKVyuIFx4go/nECK\n8mPyEokFALDKIgJV9lXZ4Hzy6qScV99IsVUGpUtRsfUfu+0tVgm9qtxrqHnNEIzy\nbPRrVED3XvvRM7IeibQWLDlPJvg6pvT3JLmH6iX8lV/zLiLV1TO9OUL7B9nX5ND7\nSOCncAj8Lxp2hOp/Nz3aXvXe4u1AM+DHqeaO0yHCeqq5MGH7CqWchfG5g602doVX\nmV00tYr72wRcfWxnpromE3z8FQgM3cghC2yiolCqDRlmz6pd9hhD48g5Gl43NIwk\nILoYlmo1AgMBAAECggEAIi6IlppQq2GZFdyAKGOwBcuptNVfjgr+58gw2CiHnO2R\nqQO6OTb3RRq4dix65aFElEtDSibbV+JKQZ6n+a8Wk+gxuHXFPZoNvwjnvmjCEh8E\nbzRR+gz0sCqqLNnzp+cWwnKdZ8W61n0TL4K9rp0Biu19LsJCmTPFqx83CwUZ22To\nUFgytS5OvwpJI5wiPL5bdrVRPxfTBpkwjImXMawjmkNnsX6UxukLc5vNIjFyBI8e\n1nOL6Tv7nPQLcfmfGjN6URIQTxo9ieiZL9IVfOPq+Ckas0YSnxkmfyPzw3X6h+x2\nMG2ntaBP4ZEdY9MbAL/qG8tirehdG9YUK0Pg/Q2Z8wKBgQD3/kYbG2p/VEPKLbqA\nWCYIb/eTQkDRYqn3tJOJZNHn3caKFjsw5+Mro+7ANqfrLWiJAfyCn01gyVm1mPVP\n0EcSIoRWk6Emvbxp4bT7wAzv5a9SaAj0LtUVrVgnvUHsBe0vthRF7Kh0a+DHd7oi\nvem6IYquTmZtKo5HndVOTJevzwKBgQDuwjj/yV1ONZRpaMADDC+X2m6HO0DnijKI\nPsMXm1axDYTHzh2oKPFkx6UeW674PamDeXB7sJ5ucXdTCSDIdHcmTQzDYpwAwHv3\nAC/BJpir5RKaMkifd8VgN+kTKAVysqMzoAfCdnzQVrpWHJXsmLB7sSgE4gunP3+P\nF1/iqPiiuwKBgQDOWKn2tio4BmJdoQ0U68PBs4CZ7D/IucLZVEyKvvQVbShdD8By\nohAY6M+o6hFwkxjvH1L/URPuW7ukacB8h74LLeNVsoMdnDRhGagg7Z0WI9Rsyhnh\nK/Krlc/LSSPIAupnj6ZwxEkqjfS7pDih3cnT0UL2ZE+/t/ApUQACpaJ1awKBgE3v\n5o1QnP2Xrd+OywbzpmGKcwP/ypsKWJ5y5lpBYdYf1JUoajPnUY0VQogbY40zC6+Y\nJ6ioqb7hmRLo6uOkaPR+uEjbWpNAQfcJ/4ysXa/W8fCVs3EitrJG7fVL3iNnvrBu\nb7oB1ZJojSDo6eO2n/1wgeC+LRGmP6xk8+7YO3lbAoGBAKb2KekGK21cFo+etZCP\nDvavGr7GgzzDvgGsXmJBFJhHljpkEpPEUv7wPhO0+nMMcGkjuOXdA7uu+2j0XrgW\nay1cZmFWmu3cuVoRjADB99IrwDyeNDEVEY7DDhv6HjyQIPhGngs5/Mfezuecs0c3\na2m+H9NHb2tID1w+N5ry72bD\n-----END PRIVATE KEY-----\n",
+  "client_email": "badge-reader@badge-reader-256323.iam.gserviceaccount.com",
+  "client_id": "101281043164644926052",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/badge-reader%40badge-reader-256323.iam.gserviceaccount.com"
+}
